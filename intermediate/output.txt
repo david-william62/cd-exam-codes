@@ -1,0 +1,15 @@
+
+MOV R0,a
+ADD R0,b
+MOV t,R0
+MOV R0,t
+SUB R0,c
+MOV d,R0
+MOV R0,d
+MUL R0,e
+MOV f,R0
+MOV R0,f
+DIV R0,g
+MOV h,R0
+MOV R0,h
+MOV y,R0

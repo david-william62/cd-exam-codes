@@ -1,0 +1,5 @@
++ a b t
+- t c d
+* d e f
+/ f g h
+= h x y
